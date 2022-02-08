@@ -1,7 +1,7 @@
 # Hey guys, i'm Matheus Mangueira!!
 
 🧑🏻‍💼 Atualmente estou trabalhando com Front-end <br>
-📗 Estutando ReactJS <br>
+📗 Estudando ReactJS <br>
 📩 Meu e-mail é: Matheusmangueira16@hotmail.com
 
 <div align="center">
