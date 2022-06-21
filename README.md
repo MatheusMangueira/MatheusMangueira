@@ -1,6 +1,5 @@
 # Olá mundo, eu sou o Matheus.
 
-🧑🏻‍💼 Atualmente estou trabalhando com Front-end <br>
 📗 Estudando ReactJS <br>
 📩 Meu e-mail é: Matheusmangueira16@hotmail.com
 
