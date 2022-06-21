@@ -1,6 +1,6 @@
 # Olá mundo, eu sou o Matheus.
 
-📗 Estudando ReactJS <br>
+📗 Estudando React <br>
 📩 Meu e-mail é: Matheusmangueira16@hotmail.com
 
 
