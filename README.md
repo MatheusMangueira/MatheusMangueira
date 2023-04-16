@@ -3,7 +3,7 @@
 
 ```javascript
 class HumanBeing {
-  constructor(origin, location, code, roles, spokenLanguages, interests, curiosities) {
+  constructor() {
     this.origin = "Brazil";
     this.location = "Brazil, Bahia";
     this.code = [
